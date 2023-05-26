@@ -194,10 +194,10 @@ const QuestionsList = [
             {answer:"blockieren die Verkehrsteilnehmer ihre Fahrzeuge.", isCorrect:false},
         ]
     },{
-        question:"Problematisch könnte es werden",
+        question:"Problematisch könnte es werden,",
         answersList: [
             {answer:"indem sie selbst behandelt werden.", isCorrect:false},
-            {answer:"bei einer Behandlung ohne Schmerzen.", isCorrect:false},
+            {answer:"wenn eine Behandlung ohne Schmerzen verläuft.", isCorrect:false},
             {answer:"wenn sie sich selbst behandeln.", isCorrect:true},
         ]
     },{
